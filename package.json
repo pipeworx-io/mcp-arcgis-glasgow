@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-glasgow",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Glasgow City Council GIS — Glasgow, Scotland (UK) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7b19dbd95700e22c1898e323e383aeb21a4580459922fa34c700d35115d9b88c",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-fc192b999684028d0cefe3bd7a8044d3d79e6895593a7236985f4d0a8c9fefb5",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
